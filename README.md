@@ -58,9 +58,9 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ---
 
 ### 🏥 Dighayu Medical (POS & Clinic Management)
-> A comprehensive, modern healthcare and clinic management system equipped with a full-featured Point of Sale (POS) and billing system. It streamlines medical operations with real-time appointment scheduling, **Stripe-integrated payments**, pharmacy inventory tracking, and **SMS notifications**. Featuring live patient display queues, a chat system, and visual analytics via **Chart.js**, this platform is powered by a highly responsive **Next.js** frontend and a fast **Node.js/Express** backend.
+> A comprehensive, modern healthcare and clinic management system equipped with a full-featured Point of Sale (POS) and billing system. It streamlines medical operations with real-time appointment scheduling, **Stripe-integrated payments**, pharmacy inventory tracking, and **SMS notifications**. Featuring live patient display queues, a chat system, and visual analytics via **Chart.js**, this platform is powered by a highly responsive **Next.js** frontend and a real-time **Firebase** backend.
 <br>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb" height="40" alt="tech-stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,firebase" height="40" alt="tech-stack" />
 <br>
 🌐 [Live Site](https://dighayu-medical.vercel.app) &nbsp;&bull;&nbsp; 🔗 [Repository](https://github.com/imalwic/dighayu-medical)
 
