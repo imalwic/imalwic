@@ -19,9 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation" />
 
 - 🎓 3rd-year **Software Engineering** undergraduate at the **University of Moratuwa** (Faculty of IT).
 - 🔭 **Currently working on:** Exploring new technologies and building scalable full-stack projects.
@@ -29,12 +27,7 @@
 - 💻 **Tech Stack:** Java, React, Spring Boot, Full-Stack Architecture.
 - ⚡ **Fun fact:** I love taking a project from a blank folder to a fully working product.
 
-</td>
-<td width="40%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalwic&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
