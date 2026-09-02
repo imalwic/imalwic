@@ -49,7 +49,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ## 🚀 Featured Projects
 
 ### 🌟 EventHive Platform
-> A highly scalable, full-stack event ticketing and management platform designed to handle large-scale event bookings seamlessly. Features include an interactive live seat-mapping system, secure user authentication, and real-time ticket availability. Built with a robust **Spring Boot** backend and a dynamic **React** frontend, it provides an optimized, user-friendly experience for both organizers and attendees.
+> A highly scalable, full-stack event ticketing and management platform designed for large-scale event bookings. It features an advanced **interactive visual seat editor** for live seat mapping, a built-in **ticket scanner** for event entry, and an integrated **AI Chatbot**. With comprehensive organizer dashboards and a secure checkout flow, it is built with a robust **Spring Boot** backend and a dynamic **Next.js/React** frontend.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,java,spring,react,postgres" height="40" alt="tech-stack" />
 <br>
@@ -57,8 +57,8 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ---
 
-### 🏥 Dighayu Medical
-> A comprehensive, modern healthcare and clinic management solution that streamlines medical operations. It features real-time appointment scheduling, secure patient record management, and doctor availability tracking. Powered by a highly responsive **React** frontend and a fast **Node.js/Express** backend, the system ensures efficiency, privacy, and seamless communication between patients and healthcare providers.
+### 🏥 Dighayu Medical (POS & Clinic Management)
+> A comprehensive, modern healthcare and clinic management system equipped with a full-featured Point of Sale (POS) and billing system. It streamlines medical operations with real-time appointment scheduling, **Stripe-integrated payments**, pharmacy inventory tracking, and **SMS notifications**. Featuring live patient display queues, a chat system, and visual analytics via **Chart.js**, this platform is powered by a highly responsive **Next.js** frontend and a fast **Node.js/Express** backend.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb" height="40" alt="tech-stack" />
 <br>
