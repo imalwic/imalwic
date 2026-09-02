@@ -48,7 +48,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ## 🚀 Featured Projects
 
-### 🌟 EventHive Platform (Flagship Personal Project)
+### 🌟 EventHive Platform (Personal Project)
 > A highly scalable, end-to-end event ticketing and management platform designed for large-scale event bookings. It features an advanced **interactive visual seat editor** for live seat mapping, a built-in **ticket scanner** for event entry, and an integrated **AI Chatbot**. The platform implements robust **JWT & Google OAuth2** authentication, automated **PDF invoice generation**, and email notifications. Built entirely as a monorepo, it pairs a secure **Spring Boot** backend with a dynamic, highly responsive **Next.js/React** frontend and **PostgreSQL** database.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,java,spring,react,nextjs,postgres" height="40" alt="tech-stack" />
@@ -57,7 +57,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ---
 
-### 🏥 Dighayu Medical (POS & Clinic Management)
+### 🏥 Dighayu Medical (Personal Project)
 > A comprehensive, modern healthcare and clinic management system equipped with a full-featured Point of Sale (POS) and billing system. It streamlines medical operations with real-time appointment scheduling, **Stripe-integrated payments**, pharmacy inventory tracking, and **SMS notifications**. Featuring live patient display queues, a chat system, and visual analytics via **Chart.js**, this platform is powered by a highly responsive **Next.js** frontend and a real-time **Firebase** backend.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,firebase" height="40" alt="tech-stack" />
@@ -66,7 +66,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ---
 
-### ⚕️ MedicareX
+### ⚕️ MedicareX (Group Project)
 > An enterprise-level, AI-powered healthcare platform spanning web and mobile. It features a **React Native (Expo)** patient app with location tracking, a robust **Vite/React** web dashboard for hospital administration, and an advanced **NestJS** backend. The system integrates multiple LLMs (OpenAI, Gemini) with a **Pinecone** vector database for AI-assisted diagnostics, alongside automated PDF report generation and real-time **Firebase** synchronizations.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,react,nestjs,firebase,tailwind" height="40" alt="tech-stack" />
