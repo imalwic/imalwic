@@ -48,11 +48,30 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ## 🚀 Featured Projects
 
-| 🌟 **[EventHive Platform](https://github.com/imalwic/eventhive-frontend)** | 🏥 **[Dighayu Medical](https://github.com/imalwic/dighayu-medical)** | ⚕️ **[MedicareX](https://github.com/imalwic)** |
-| :--- | :--- | :--- |
-| A comprehensive event ticketing and management system with live seat-mapping capabilities. | A modern medical clinic management system featuring patient records and appointment scheduling. | A comprehensive healthcare system project built to streamline medical processes and enhance patient care. |
-| **Tech:** TypeScript, Java, Spring Boot, React, PostgreSQL | **Tech:** TypeScript, React, Node.js, Express, MongoDB | **Tech:** Java, Spring Boot, React, MySQL |
-| 🔗 [Frontend](https://github.com/imalwic/eventhive-frontend) <br> 🔗 [Backend](https://github.com/imalwic/eventhive-backend) | 🌐 [Live Site](https://dighayu-medical.vercel.app) <br> 🔗 [Repository](https://github.com/imalwic/dighayu-medical) | *(Details updating soon)* |
+### 🌟 EventHive Platform
+**A comprehensive event ticketing and management system with live seat-mapping capabilities.**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,java,spring,react,postgres" height="40" alt="tech-stack" />
+<br>
+🔗 [Frontend Repository](https://github.com/imalwic/eventhive-frontend) &nbsp;&bull;&nbsp; 🔗 [Backend Repository](https://github.com/imalwic/eventhive-backend)
+
+---
+
+### 🏥 Dighayu Medical
+**A modern medical clinic management system featuring patient records and appointment scheduling.**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb" height="40" alt="tech-stack" />
+<br>
+🌐 [Live Site](https://dighayu-medical.vercel.app) &nbsp;&bull;&nbsp; 🔗 [Repository](https://github.com/imalwic/dighayu-medical)
+
+---
+
+### ⚕️ MedicareX
+**A comprehensive healthcare system project built to streamline medical processes and enhance patient care.**
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql" height="40" alt="tech-stack" />
+<br>
+🔗 [Repository](https://github.com/imalwic) *(Details updating soon)*
 
 ---
 
