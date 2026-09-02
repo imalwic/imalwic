@@ -75,16 +75,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imalwic&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Imal's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalwic&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&sideNums=777777&sideLabels=777777&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&currStreakNum=777777" alt="Imal's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imalwic&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="profile views" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" width="100%" />
