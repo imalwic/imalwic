@@ -21,11 +21,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation" />
 
-- 🎓 3rd-year **Software Engineering** undergraduate at the **University of Moratuwa** (Faculty of IT).
-- 🔭 **Currently working on:** Exploring new technologies and building scalable full-stack projects.
-- 🌱 **Currently learning:** Linux and Cloud Computing (AWS, Docker) - Highly passionate about the cloud ecosystem!
-- 💻 **Tech Stack:** Java, React, Spring Boot, Full-Stack Architecture.
-- ⚡ **Fun fact:** I love taking a project from a blank folder to a fully working product.
+Hello! 👋 I'm a 3rd-year **Software Engineering** undergraduate at the **University of Moratuwa** (Faculty of IT). I am deeply passionate about building scalable, end-to-end full-stack applications. 
+
+My core expertise revolves around **Java, Spring Boot, and React**, but I am always eager to explore new technologies. Currently, I am diving deep into **Linux and Cloud Computing (AWS & Docker)** as I have a strong interest in the modern cloud ecosystem. 
+
+For me, there is nothing more exciting than taking an idea from a blank folder to a fully functional, production-ready product! 🚀
 
 <br clear="both">
 
