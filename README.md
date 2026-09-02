@@ -49,7 +49,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ## 🚀 Featured Projects
 
 ### 🌟 EventHive Platform
-**A comprehensive event ticketing and management system with live seat-mapping capabilities.**
+> A highly scalable, full-stack event ticketing and management platform designed to handle large-scale event bookings seamlessly. Features include an interactive live seat-mapping system, secure user authentication, and real-time ticket availability. Built with a robust **Spring Boot** backend and a dynamic **React** frontend, it provides an optimized, user-friendly experience for both organizers and attendees.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,java,spring,react,postgres" height="40" alt="tech-stack" />
 <br>
@@ -58,7 +58,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ---
 
 ### 🏥 Dighayu Medical
-**A modern medical clinic management system featuring patient records and appointment scheduling.**
+> A comprehensive, modern healthcare and clinic management solution that streamlines medical operations. It features real-time appointment scheduling, secure patient record management, and doctor availability tracking. Powered by a highly responsive **React** frontend and a fast **Node.js/Express** backend, the system ensures efficiency, privacy, and seamless communication between patients and healthcare providers.
 <br>
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb" height="40" alt="tech-stack" />
 <br>
@@ -67,7 +67,7 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ---
 
 ### ⚕️ MedicareX
-**A comprehensive healthcare system project built to streamline medical processes and enhance patient care.**
+> An enterprise-level healthcare management system aimed at transforming patient care and hospital administration. It provides a centralized platform for managing medical histories, pharmacy inventory, and digital prescriptions. Engineered with a secure **Spring Boot** backend and **MySQL** for reliable data storage, MedicareX focuses on improving the operational efficiency of modern medical facilities.
 <br>
 <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" height="40" alt="tech-stack" />
 <br>
