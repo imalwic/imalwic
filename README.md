@@ -67,11 +67,11 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 ---
 
 ### ⚕️ MedicareX
-> An enterprise-level healthcare management system aimed at transforming patient care and hospital administration. It provides a centralized platform for managing medical histories, pharmacy inventory, and digital prescriptions. Engineered with a secure **Spring Boot** backend and **MySQL** for reliable data storage, MedicareX focuses on improving the operational efficiency of modern medical facilities.
+> An enterprise-level, AI-powered healthcare platform spanning web and mobile. It features a **React Native (Expo)** patient app with location tracking, a robust **Vite/React** web dashboard for hospital administration, and an advanced **NestJS** backend. The system integrates multiple LLMs (OpenAI, Gemini) with a **Pinecone** vector database for AI-assisted diagnostics, alongside automated PDF report generation and real-time **Firebase** synchronizations.
 <br>
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql" height="40" alt="tech-stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nestjs,firebase,tailwind" height="40" alt="tech-stack" />
 <br>
-🔗 [Repository](https://github.com/imalwic) *(Details updating soon)*
+🔗 [Mobile App](https://github.com/SoftwareProjectInnovateX/MedicareX_App) &nbsp;&bull;&nbsp; 🔗 [Backend Repository](https://github.com/SoftwareProjectInnovateX/Backend_InnovateX_Batch23) &nbsp;&bull;&nbsp; 🔗 [Web Frontend](https://github.com/SoftwareProjectInnovateX/Frontend_InnovateX_Batch23)
 
 ---
 
