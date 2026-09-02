@@ -48,12 +48,12 @@ For me, there is nothing more exciting than taking an idea from a blank folder t
 
 ## 🚀 Featured Projects
 
-### 🌟 EventHive Platform
-> A highly scalable, full-stack event ticketing and management platform designed for large-scale event bookings. It features an advanced **interactive visual seat editor** for live seat mapping, a built-in **ticket scanner** for event entry, and an integrated **AI Chatbot**. With comprehensive organizer dashboards and a secure checkout flow, it is built with a robust **Spring Boot** backend and a dynamic **Next.js/React** frontend.
+### 🌟 EventHive Platform (Flagship Personal Project)
+> A highly scalable, end-to-end event ticketing and management platform designed for large-scale event bookings. It features an advanced **interactive visual seat editor** for live seat mapping, a built-in **ticket scanner** for event entry, and an integrated **AI Chatbot**. The platform implements robust **JWT & Google OAuth2** authentication, automated **PDF invoice generation**, and email notifications. Built entirely as a monorepo, it pairs a secure **Spring Boot** backend with a dynamic, highly responsive **Next.js/React** frontend and **PostgreSQL** database.
 <br>
-<img src="https://skillicons.dev/icons?i=ts,java,spring,react,postgres" height="40" alt="tech-stack" />
+<img src="https://skillicons.dev/icons?i=ts,java,spring,react,nextjs,postgres" height="40" alt="tech-stack" />
 <br>
-🔗 [Frontend Repository](https://github.com/imalwic/eventhive-frontend) &nbsp;&bull;&nbsp; 🔗 [Backend Repository](https://github.com/imalwic/eventhive-backend)
+🔗 [Monorepo Repository](https://github.com/imalwic/eventhive)
 
 ---
 
